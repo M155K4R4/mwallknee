@@ -1,5 +1,5 @@
-# OpenKnit
-Max Patch & Arduino code for controlling the Wally120 Knitting Machine at the WDKA Interaction Station
+# OpenKnit-Max
+Max Patch & Arduino code for controlling the Wally120 Knitting Machine (as seen at the WDKA Interaction Station)
 
 OpenKnit by Gerard Rubio www.openknit.org
 
