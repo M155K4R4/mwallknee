@@ -1,0 +1,32 @@
+{
+	"pattrstorage" : 	{
+		"name" : "maxpatch_settings",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"number" : [ 59 ],
+					"number[10]" : [ 61 ],
+					"number[11]" : [ 300 ],
+					"number[12]" : [ 91 ],
+					"number[13]" : [ 24 ],
+					"number[14]" : [ 97 ],
+					"number[1]" : [ 33 ],
+					"number[2]" : [ 105 ],
+					"number[3]" : [ 159 ],
+					"number[4]" : [ 100 ],
+					"number[5]" : [ 150 ],
+					"number[6]" : [ 77 ],
+					"number[7]" : [ 21 ],
+					"number[8]" : [ 91 ],
+					"number[9]" : [ 45 ],
+					"umenu" : [ "Bluetooth-Incoming-Port" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
